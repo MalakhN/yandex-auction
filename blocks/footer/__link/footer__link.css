@@ -1,0 +1,30 @@
+.footer__link {
+  color: #FFFFFF;
+  text-decoration: none;
+  padding-right: 18px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.footer__link:last-child {
+  padding-right: 0;
+}
+
+.footer__link:hover {
+  opacity: 80%;
+}
+
+@media (max-width: 705px) {
+  .footer__link {
+    font-size: 24px;
+    line-height: 24px;
+    padding-bottom: 32px;
+  }
+  .footer__link:last-child {
+    padding-bottom: 48px;
+  }
+}

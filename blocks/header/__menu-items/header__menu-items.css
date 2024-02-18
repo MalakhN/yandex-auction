@@ -1,0 +1,8 @@
+.header__menu-items {
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+  list-style: circle;
+  margin: 0;
+  padding: 0;
+}

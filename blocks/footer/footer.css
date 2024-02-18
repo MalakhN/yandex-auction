@@ -1,0 +1,27 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 92px 48px 24px;
+  font-size: 16px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+  .footer {
+    padding: 88px 24px 24px;
+    margin: 0;
+  }
+}
+
+
+@media (max-width: 705px) {
+  .footer {
+    flex-direction: column;
+    padding: 64px 16px 24px;
+  }
+}

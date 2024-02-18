@@ -1,0 +1,9 @@
+.header__menu-item {
+  text-decoration: none;
+  text-transform: lowercase;
+  color: inherit;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: 0.01em;
+}

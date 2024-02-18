@@ -1,0 +1,23 @@
+@font-face {
+  src:
+    url(./raleway_regular.woff) format('woff'),
+    url(./raleway_regular.woff2) format('woff2');
+  font-family: 'Raleway';
+  font-weight: 400;
+}
+
+@font-face {
+  src:
+    url(./raleway_medium.woff) format('woff'),
+    url(./raleway_medium.woff2) format('woff2');
+  font-family: 'Raleway';
+  font-weight: 500;
+}
+
+@font-face {
+  src:
+    url(./raleway_bold.woff) format('woff'),
+    url(./raleway_bold.woff2) format('woff2');
+  font-family: 'Raleway';
+  font-weight: 700;
+}
