@@ -1,17 +1,18 @@
 .cover__title {
-  width: 100%;
-  max-width: 560px;
-  z-index: 1;
-  text-align: center;
-  font-weight: 900;
-  font-size: 72px;
-  line-height: 76px;
-  margin: 0;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  font-weight: 700;
+  font-size: 100px;
+  letter-spacing: 0.3em;
+  margin: 0 0 5px;
+  padding: 0;
 }
 
-@media (max-width: 767px) {
-  .cover__title {
-    font-size: 32px;
-    line-height: 35px;
-  }
+.cover__title:first-child {
+  align-self: flex-start;
+}
+
+.cover__title:last-child {
+  align-self: flex-end;
+  margin-bottom: 0;
 }
