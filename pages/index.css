@@ -20,4 +20,16 @@
 @import url(../blocks/cover/__subtitle-container/cover__subtitle-container.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 @import url(../blocks/cover/__button/cover__button.css);
+@import url(../blocks/lots/lots.css);
+@import url(../blocks/lots/__header/lots__header.css);
+@import url(../blocks/lots/__card-list/lots__card-list.css);
+@import url(../blocks/lots/__card-item/lots__card-item.css);
+@import url(../blocks/lots/__card-link/lots__card-link.css);
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/__title/card__title.css);
+@import url(../blocks/card/__text/card__text.css);
+@import url(../blocks/card/_type/_film/card_type_film.css);
+@import url(../blocks/card/_type/_book/card_type_book.css);
+@import url(../blocks/card/_type/_picture/card_type_picture.css);
+@import url(../blocks/lots/__look-more-link/lots__look-more-link.css);
 @import url(../blocks/footer/footer.css);

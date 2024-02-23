@@ -1,0 +1,8 @@
+.lots__look-more-link {
+  text-transform: lowercase;
+  text-underline-offset: 4px;
+  color: inherit;
+  font-style: normal;
+  font-size: 20px;
+  margin: 0 0 0 64px;
+}
