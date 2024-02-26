@@ -1,5 +1,6 @@
-.header__address {
-  text-decoration: none;
+.footer__menu-item {
+  text-underline-offset: 4px;
+  text-transform: lowercase;
   color: inherit;
   font-style: normal;
   font-size: 18px;

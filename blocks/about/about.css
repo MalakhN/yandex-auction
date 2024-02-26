@@ -1,0 +1,6 @@
+.about {
+  display: grid;
+  grid-template-columns: 334px 1fr;
+  margin: 0 24px 180px;
+  gap: 25px;
+}

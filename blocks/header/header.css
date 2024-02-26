@@ -8,9 +8,3 @@
   padding: 92px 50px 96px;
   box-sizing: border-box;
 }
-
-@media (max-width: 320px) {
-  .header {
-    padding: 16px 16px 48px;
-  }
-}
