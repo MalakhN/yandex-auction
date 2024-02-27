@@ -2,7 +2,7 @@
   text-transform: lowercase;
   text-underline-offset: 4px;
   color: inherit;
-  font-style: normal;
+  font-weight: 400;
   font-size: 20px;
   margin: 0 0 0 64px;
 }
